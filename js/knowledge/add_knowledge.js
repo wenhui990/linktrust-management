@@ -49,6 +49,6 @@ $(function (){
 		}
 	});
 	$('.back').click(function (){
-		window.location.href='../../view/organizationalManage/schoolManage.html';
+		window.location.href='knowledge_list.html';
 	});
 });

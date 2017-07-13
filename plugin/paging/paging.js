@@ -91,7 +91,6 @@
 			 */
 		},
 		go: function(p) {
-			console.log(p)
 			var _this = this;
 			this.current = p || this.current;
 			this.current = Math.max(1, _this.current);
